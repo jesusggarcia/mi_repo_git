@@ -6,3 +6,4 @@
 
 [Hardware1.md](https://github.com/jesusggarcia/mi_repo_git/blob/main/hardware/hardware1.md)
 [Hardware2.md](https://github.com/jesusggarcia/mi_repo_git/blob/main/hardware/hardware2.md)
+[Hardware3.md](https://github.com/Daniel-Sanchez-del-Campo/mi_repo_git_jesus/blob/main/hardware/hardware_daniel.md)
